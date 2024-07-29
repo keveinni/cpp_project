@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "Codegeex.Chat.LanguagePreference": "中文",
+    "Codegeex.Comment.LanguagePreference": "中文",
+    "Codegeex.SidebarUI.LanguagePreference": "中文"
 }
